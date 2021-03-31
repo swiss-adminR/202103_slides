@@ -1,2 +1,6 @@
 # 202103_slides
-Slides of the spring edition Meetup, 18. March 2021 @ Zoom
+
+Slides of the [spring Meetup 2021](https://www.meetup.com/de-DE/adminR/events/276327919/), 18. March 2021 @ Zoom
+
+### Indiedown: Individual R Markdown PDF Templates
+Angelica Becerra, cynkra
